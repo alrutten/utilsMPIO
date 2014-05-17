@@ -1,0 +1,1949 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+  <!-- Begin Style Definitions -->
+  <Folder>
+    <name>Point Features</name>
+    <description>Point Features</description>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 1]]></description>
+      <name>1</name>
+      <Point>
+      <coordinates>10.88540917,48.14064311,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 2]]></description>
+      <name>2</name>
+      <Point>
+      <coordinates>10.88591223,48.14065675,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 3]]></description>
+      <name>3</name>
+      <Point>
+      <coordinates>10.88649883,48.14068260,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 4]]></description>
+      <name>4</name>
+      <Point>
+      <coordinates>10.88706846,48.14059436,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 5]]></description>
+      <name>5</name>
+      <Point>
+      <coordinates>10.88749696,48.14054956,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 6]]></description>
+      <name>6</name>
+      <Point>
+      <coordinates>10.88812317,48.14060863,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 7]]></description>
+      <name>7</name>
+      <Point>
+      <coordinates>10.88870614,48.14051273,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 8]]></description>
+      <name>8</name>
+      <Point>
+      <coordinates>10.88929033,48.14053605,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 9]]></description>
+      <name>9</name>
+      <Point>
+      <coordinates>10.88984439,48.14049124,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 10]]></description>
+      <name>10</name>
+      <Point>
+      <coordinates>10.89042725,48.14041592,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 11]]></description>
+      <name>11</name>
+      <Point>
+      <coordinates>10.89104285,48.14047166,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 12]]></description>
+      <name>12</name>
+      <Point>
+      <coordinates>10.89151246,48.14036588,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 13]]></description>
+      <name>13</name>
+      <Point>
+      <coordinates>10.89212562,48.14038250,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 14]]></description>
+      <name>14</name>
+      <Point>
+      <coordinates>10.89269971,48.14033693,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 15]]></description>
+      <name>15</name>
+      <Point>
+      <coordinates>10.89327760,48.14042768,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 16]]></description>
+      <name>16</name>
+      <Point>
+      <coordinates>10.89390439,48.14029274,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 17]]></description>
+      <name>17</name>
+      <Point>
+      <coordinates>10.89455618,48.14018119,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 18]]></description>
+      <name>18</name>
+      <Point>
+      <coordinates>10.89487007,48.14026316,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 19]]></description>
+      <name>19</name>
+      <Point>
+      <coordinates>10.89463962,48.14061074,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 20]]></description>
+      <name>20</name>
+      <Point>
+      <coordinates>10.89410996,48.14064287,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 21]]></description>
+      <name>21</name>
+      <Point>
+      <coordinates>10.89365778,48.14064263,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 22]]></description>
+      <name>22</name>
+      <Point>
+      <coordinates>10.89282212,48.14064881,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 23]]></description>
+      <name>23</name>
+      <Point>
+      <coordinates>10.89230807,48.14061998,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 24]]></description>
+      <name>24</name>
+      <Point>
+      <coordinates>10.89176203,48.14070797,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 25]]></description>
+      <name>25</name>
+      <Point>
+      <coordinates>10.89139568,48.14083857,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 26]]></description>
+      <name>26</name>
+      <Point>
+      <coordinates>10.89079062,48.14090673,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 27]]></description>
+      <name>27</name>
+      <Point>
+      <coordinates>10.89019387,48.14080853,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 28]]></description>
+      <name>28</name>
+      <Point>
+      <coordinates>10.88964474,48.14084157,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 29]]></description>
+      <name>29</name>
+      <Point>
+      <coordinates>10.88909538,48.14093129,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 30]]></description>
+      <name>30</name>
+      <Point>
+      <coordinates>10.88853259,48.14085149,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 31]]></description>
+      <name>31</name>
+      <Point>
+      <coordinates>10.88783775,48.14090266,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 32]]></description>
+      <name>32</name>
+      <Point>
+      <coordinates>10.88739365,48.14091109,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 33]]></description>
+      <name>33</name>
+      <Point>
+      <coordinates>10.88687550,48.14099606,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 34]]></description>
+      <name>34</name>
+      <Point>
+      <coordinates>10.88619703,48.14103030,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 36]]></description>
+      <name>36</name>
+      <Point>
+      <coordinates>10.88588801,48.14130459,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 37]]></description>
+      <name>37</name>
+      <Point>
+      <coordinates>10.88657160,48.14125857,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 38]]></description>
+      <name>38</name>
+      <Point>
+      <coordinates>10.88718508,48.14120998,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 39]]></description>
+      <name>39</name>
+      <Point>
+      <coordinates>10.88764318,48.14132496,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 40]]></description>
+      <name>40</name>
+      <Point>
+      <coordinates>10.88827130,48.14127001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 41]]></description>
+      <name>41</name>
+      <Point>
+      <coordinates>10.88878392,48.14116195,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 42]]></description>
+      <name>42</name>
+      <Point>
+      <coordinates>10.88928404,48.14119444,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 43]]></description>
+      <name>43</name>
+      <Point>
+      <coordinates>10.88988875,48.14118919,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 44]]></description>
+      <name>44</name>
+      <Point>
+      <coordinates>10.89043504,48.14107293,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 45]]></description>
+      <name>45</name>
+      <Point>
+      <coordinates>10.89104086,48.14118586,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 46]]></description>
+      <name>46</name>
+      <Point>
+      <coordinates>10.89172499,48.14114859,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 47]]></description>
+      <name>47</name>
+      <Point>
+      <coordinates>10.89206690,48.14097569,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 48]]></description>
+      <name>48</name>
+      <Point>
+      <coordinates>10.89250597,48.14094410,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 49]]></description>
+      <name>49</name>
+      <Point>
+      <coordinates>10.89318758,48.14083686,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 50]]></description>
+      <name>50</name>
+      <Point>
+      <coordinates>10.89376486,48.14098516,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 51]]></description>
+      <name>51</name>
+      <Point>
+      <coordinates>10.89453115,48.14091343,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 52]]></description>
+      <name>52</name>
+      <Point>
+      <coordinates>10.89427311,48.14114664,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 53]]></description>
+      <name>53</name>
+      <Point>
+      <coordinates>10.89342549,48.14118201,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 54]]></description>
+      <name>54</name>
+      <Point>
+      <coordinates>10.89300779,48.14117264,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 55]]></description>
+      <name>55</name>
+      <Point>
+      <coordinates>10.89254770,48.14141411,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 56]]></description>
+      <name>56</name>
+      <Point>
+      <coordinates>10.89205655,48.14140870,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 57]]></description>
+      <name>57</name>
+      <Point>
+      <coordinates>10.89155120,48.14126043,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 58]]></description>
+      <name>58</name>
+      <Point>
+      <coordinates>10.89092786,48.14131409,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 59]]></description>
+      <name>59</name>
+      <Point>
+      <coordinates>10.89025107,48.14144799,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 60]]></description>
+      <name>60</name>
+      <Point>
+      <coordinates>10.88965080,48.14148613,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 61]]></description>
+      <name>61</name>
+      <Point>
+      <coordinates>10.88891526,48.14147907,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 62]]></description>
+      <name>62</name>
+      <Point>
+      <coordinates>10.88858034,48.14147365,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 63]]></description>
+      <name>63</name>
+      <Point>
+      <coordinates>10.88802145,48.14134292,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 64]]></description>
+      <name>64</name>
+      <Point>
+      <coordinates>10.88731633,48.14158309,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 65]]></description>
+      <name>65</name>
+      <Point>
+      <coordinates>10.88685954,48.14152271,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 66]]></description>
+      <name>66</name>
+      <Point>
+      <coordinates>10.88614100,48.14147765,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 67]]></description>
+      <name>67</name>
+      <Point>
+      <coordinates>10.88611680,48.14195986,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 68]]></description>
+      <name>68</name>
+      <Point>
+      <coordinates>10.88641967,48.14169170,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 69]]></description>
+      <name>69</name>
+      <Point>
+      <coordinates>10.88708231,48.14182863,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 70]]></description>
+      <name>70</name>
+      <Point>
+      <coordinates>10.88766526,48.14182723,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 71]]></description>
+      <name>71</name>
+      <Point>
+      <coordinates>10.88817622,48.14181801,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 72]]></description>
+      <name>72</name>
+      <Point>
+      <coordinates>10.88852339,48.14180763,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 73]]></description>
+      <name>73</name>
+      <Point>
+      <coordinates>10.88934502,48.14170410,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 74]]></description>
+      <name>74</name>
+      <Point>
+      <coordinates>10.88996800,48.14178241,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 75]]></description>
+      <name>75</name>
+      <Point>
+      <coordinates>10.89038482,48.14205578,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 76]]></description>
+      <name>76</name>
+      <Point>
+      <coordinates>10.89095013,48.14192084,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 77]]></description>
+      <name>77</name>
+      <Point>
+      <coordinates>10.89158199,48.14189515,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 78]]></description>
+      <name>78</name>
+      <Point>
+      <coordinates>10.89223028,48.14172289,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 79]]></description>
+      <name>79</name>
+      <Point>
+      <coordinates>10.89260347,48.14158670,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 80]]></description>
+      <name>80</name>
+      <Point>
+      <coordinates>10.89307145,48.14149107,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 81]]></description>
+      <name>81</name>
+      <Point>
+      <coordinates>10.89378773,48.14145253,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 82]]></description>
+      <name>82</name>
+      <Point>
+      <coordinates>10.89425098,48.14147039,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 83]]></description>
+      <name>83</name>
+      <Point>
+      <coordinates>10.89411837,48.14171793,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 84]]></description>
+      <name>84</name>
+      <Point>
+      <coordinates>10.89354137,48.14169916,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 85]]></description>
+      <name>85</name>
+      <Point>
+      <coordinates>10.89288121,48.14189067,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 86]]></description>
+      <name>86</name>
+      <Point>
+      <coordinates>10.89254376,48.14198003,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 87]]></description>
+      <name>87</name>
+      <Point>
+      <coordinates>10.89192906,48.14206223,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 88]]></description>
+      <name>88</name>
+      <Point>
+      <coordinates>10.89118266,48.14212061,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 89]]></description>
+      <name>89</name>
+      <Point>
+      <coordinates>10.89066485,48.14227210,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 90]]></description>
+      <name>90</name>
+      <Point>
+      <coordinates>10.88999217,48.14214421,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 91]]></description>
+      <name>91</name>
+      <Point>
+      <coordinates>10.88957203,48.14196420,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 92]]></description>
+      <name>92</name>
+      <Point>
+      <coordinates>10.88900257,48.14201555,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 93]]></description>
+      <name>93</name>
+      <Point>
+      <coordinates>10.88831890,48.14206686,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 94]]></description>
+      <name>94</name>
+      <Point>
+      <coordinates>10.88802041,48.14200667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 95]]></description>
+      <name>95</name>
+      <Point>
+      <coordinates>10.88710538,48.14203463,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 96]]></description>
+      <name>96</name>
+      <Point>
+      <coordinates>10.88679167,48.14208081,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 97]]></description>
+      <name>97</name>
+      <Point>
+      <coordinates>10.88631900,48.14201384,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 98]]></description>
+      <name>98</name>
+      <Point>
+      <coordinates>10.88650536,48.14245868,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 99]]></description>
+      <name>99</name>
+      <Point>
+      <coordinates>10.88704927,48.14236986,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 100]]></description>
+      <name>100</name>
+      <Point>
+      <coordinates>10.88762671,48.14230120,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 101]]></description>
+      <name>101</name>
+      <Point>
+      <coordinates>10.88811772,48.14242367,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 102]]></description>
+      <name>102</name>
+      <Point>
+      <coordinates>10.88874884,48.14231783,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 103]]></description>
+      <name>103</name>
+      <Point>
+      <coordinates>10.88929716,48.14232931,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 104]]></description>
+      <name>104</name>
+      <Point>
+      <coordinates>10.88957614,48.14239801,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 105]]></description>
+      <name>105</name>
+      <Point>
+      <coordinates>10.89015089,48.14244346,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 106]]></description>
+      <name>106</name>
+      <Point>
+      <coordinates>10.89106768,48.14245687,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 107]]></description>
+      <name>107</name>
+      <Point>
+      <coordinates>10.89163368,48.14243465,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 108]]></description>
+      <name>108</name>
+      <Point>
+      <coordinates>10.89232260,48.14229864,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 109]]></description>
+      <name>109</name>
+      <Point>
+      <coordinates>10.89285921,48.14229041,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 110]]></description>
+      <name>110</name>
+      <Point>
+      <coordinates>10.89340000,48.14204905,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 111]]></description>
+      <name>111</name>
+      <Point>
+      <coordinates>10.89382586,48.14202229,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 112]]></description>
+      <name>112</name>
+      <Point>
+      <coordinates>10.89389579,48.14265174,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 113]]></description>
+      <name>113</name>
+      <Point>
+      <coordinates>10.89337580,48.14256844,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 114]]></description>
+      <name>114</name>
+      <Point>
+      <coordinates>10.89295200,48.14266076,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 115]]></description>
+      <name>115</name>
+      <Point>
+      <coordinates>10.89244678,48.14265027,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 116]]></description>
+      <name>116</name>
+      <Point>
+      <coordinates>10.89187518,48.14267155,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 117]]></description>
+      <name>117</name>
+      <Point>
+      <coordinates>10.89131351,48.14268124,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 118]]></description>
+      <name>118</name>
+      <Point>
+      <coordinates>10.89065524,48.14273442,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 119]]></description>
+      <name>119</name>
+      <Point>
+      <coordinates>10.89009793,48.14275258,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 120]]></description>
+      <name>120</name>
+      <Point>
+      <coordinates>10.88957772,48.14274292,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 121]]></description>
+      <name>121</name>
+      <Point>
+      <coordinates>10.88902117,48.14272178,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 122]]></description>
+      <name>122</name>
+      <Point>
+      <coordinates>10.88850297,48.14269689,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 123]]></description>
+      <name>123</name>
+      <Point>
+      <coordinates>10.88778169,48.14272668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 124]]></description>
+      <name>124</name>
+      <Point>
+      <coordinates>10.88750912,48.14259424,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 125]]></description>
+      <name>125</name>
+      <Point>
+      <coordinates>10.88685798,48.14273637,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 126]]></description>
+      <name>126</name>
+      <Point>
+      <coordinates>10.88706148,48.14307176,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 127]]></description>
+      <name>127</name>
+      <Point>
+      <coordinates>10.88752464,48.14309226,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 128]]></description>
+      <name>128</name>
+      <Point>
+      <coordinates>10.88811333,48.14301059,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 129]]></description>
+      <name>129</name>
+      <Point>
+      <coordinates>10.88881116,48.14296274,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 130]]></description>
+      <name>130</name>
+      <Point>
+      <coordinates>10.88930221,48.14305095,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 131]]></description>
+      <name>131</name>
+      <Point>
+      <coordinates>10.88983163,48.14304747,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 132]]></description>
+      <name>132</name>
+      <Point>
+      <coordinates>10.89023094,48.14295656,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 133]]></description>
+      <name>133</name>
+      <Point>
+      <coordinates>10.89098791,48.14302116,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 134]]></description>
+      <name>134</name>
+      <Point>
+      <coordinates>10.89153311,48.14297419,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 135]]></description>
+      <name>135</name>
+      <Point>
+      <coordinates>10.89213586,48.14296932,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 136]]></description>
+      <name>136</name>
+      <Point>
+      <coordinates>10.89255732,48.14290743,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 137]]></description>
+      <name>137</name>
+      <Point>
+      <coordinates>10.89310313,48.14295472,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 138]]></description>
+      <name>138</name>
+      <Point>
+      <coordinates>10.89360041,48.14300559,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 139]]></description>
+      <name>139</name>
+      <Point>
+      <coordinates>10.89399565,48.14327335,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 140]]></description>
+      <name>140</name>
+      <Point>
+      <coordinates>10.89307825,48.14333804,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 141]]></description>
+      <name>141</name>
+      <Point>
+      <coordinates>10.89281555,48.14319650,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 142]]></description>
+      <name>142</name>
+      <Point>
+      <coordinates>10.89238995,48.14327986,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 143]]></description>
+      <name>143</name>
+      <Point>
+      <coordinates>10.89188584,48.14323664,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 144]]></description>
+      <name>144</name>
+      <Point>
+      <coordinates>10.89135246,48.14327189,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 145]]></description>
+      <name>145</name>
+      <Point>
+      <coordinates>10.89068184,48.14331463,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 146]]></description>
+      <name>146</name>
+      <Point>
+      <coordinates>10.89018148,48.14333125,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 147]]></description>
+      <name>147</name>
+      <Point>
+      <coordinates>10.88960874,48.14341881,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 148]]></description>
+      <name>148</name>
+      <Point>
+      <coordinates>10.88903703,48.14331413,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 149]]></description>
+      <name>149</name>
+      <Point>
+      <coordinates>10.88851348,48.14325013,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 150]]></description>
+      <name>150</name>
+      <Point>
+      <coordinates>10.88797616,48.14327452,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 151]]></description>
+      <name>151</name>
+      <Point>
+      <coordinates>10.88743415,48.14337014,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 152]]></description>
+      <name>152</name>
+      <Point>
+      <coordinates>10.88699882,48.14338469,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 153]]></description>
+      <name>153</name>
+      <Point>
+      <coordinates>10.88730286,48.14365508,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 154]]></description>
+      <name>154</name>
+      <Point>
+      <coordinates>10.88776606,48.14367926,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 155]]></description>
+      <name>155</name>
+      <Point>
+      <coordinates>10.88839454,48.14373836,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 156]]></description>
+      <name>156</name>
+      <Point>
+      <coordinates>10.88879514,48.14363635,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 157]]></description>
+      <name>157</name>
+      <Point>
+      <coordinates>10.88916589,48.14370112,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 158]]></description>
+      <name>158</name>
+      <Point>
+      <coordinates>10.88986633,48.14370337,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 159]]></description>
+      <name>159</name>
+      <Point>
+      <coordinates>10.89039269,48.14364920,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 160]]></description>
+      <name>160</name>
+      <Point>
+      <coordinates>10.89095421,48.14361381,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 162]]></description>
+      <name>162</name>
+      <Point>
+      <coordinates>10.89213118,48.14358051,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 161]]></description>
+      <name>161</name>
+      <Point>
+      <coordinates>10.89158528,48.14363372,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 163]]></description>
+      <name>163</name>
+      <Point>
+      <coordinates>10.89271744,48.14357405,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 164]]></description>
+      <name>164</name>
+      <Point>
+      <coordinates>10.89304997,48.14355390,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 165]]></description>
+      <name>165</name>
+      <Point>
+      <coordinates>10.89372195,48.14361699,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 166]]></description>
+      <name>166</name>
+      <Point>
+      <coordinates>10.89343710,48.14376449,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 167]]></description>
+      <name>167</name>
+      <Point>
+      <coordinates>10.89293452,48.14392568,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 168]]></description>
+      <name>168</name>
+      <Point>
+      <coordinates>10.89241564,48.14395127,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 169]]></description>
+      <name>169</name>
+      <Point>
+      <coordinates>10.89185748,48.14383792,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 170]]></description>
+      <name>170</name>
+      <Point>
+      <coordinates>10.89139730,48.14386603,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 171]]></description>
+      <name>171</name>
+      <Point>
+      <coordinates>10.89081134,48.14394286,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 172]]></description>
+      <name>172</name>
+      <Point>
+      <coordinates>10.89025235,48.14386483,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 173]]></description>
+      <name>173</name>
+      <Point>
+      <coordinates>10.88963836,48.14397616,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 174]]></description>
+      <name>174</name>
+      <Point>
+      <coordinates>10.88905073,48.14405767,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 175]]></description>
+      <name>175</name>
+      <Point>
+      <coordinates>10.88857707,48.14391839,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 176]]></description>
+      <name>176</name>
+      <Point>
+      <coordinates>10.88806015,48.14385110,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 177]]></description>
+      <name>177</name>
+      <Point>
+      <coordinates>10.88753607,48.14395889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 178]]></description>
+      <name>178</name>
+      <Point>
+      <coordinates>10.88779997,48.14431172,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 179]]></description>
+      <name>179</name>
+      <Point>
+      <coordinates>10.88828978,48.14429947,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 180]]></description>
+      <name>180</name>
+      <Point>
+      <coordinates>10.88874737,48.14425081,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 181]]></description>
+      <name>181</name>
+      <Point>
+      <coordinates>10.88927825,48.14429171,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 182]]></description>
+      <name>182</name>
+      <Point>
+      <coordinates>10.88988578,48.14409429,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 183]]></description>
+      <name>183</name>
+      <Point>
+      <coordinates>10.89044841,48.14432791,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 184]]></description>
+      <name>184</name>
+      <Point>
+      <coordinates>10.89106868,48.14419028,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 185]]></description>
+      <name>185</name>
+      <Point>
+      <coordinates>10.89154817,48.14420849,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 186]]></description>
+      <name>186</name>
+      <Point>
+      <coordinates>10.89221919,48.14425382,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 187]]></description>
+      <name>187</name>
+      <Point>
+      <coordinates>10.89273084,48.14416907,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 188]]></description>
+      <name>188</name>
+      <Point>
+      <coordinates>10.89325554,48.14422825,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 189]]></description>
+      <name>189</name>
+      <Point>
+      <coordinates>10.89371991,48.14420779,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 190]]></description>
+      <name>190</name>
+      <Point>
+      <coordinates>10.89380626,48.14456545,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 191]]></description>
+      <name>191</name>
+      <Point>
+      <coordinates>10.89314361,48.14451420,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 192]]></description>
+      <name>192</name>
+      <Point>
+      <coordinates>10.89262499,48.14453123,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 193]]></description>
+      <name>193</name>
+      <Point>
+      <coordinates>10.89205574,48.14455355,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 194]]></description>
+      <name>194</name>
+      <Point>
+      <coordinates>10.89155177,48.14454117,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 195]]></description>
+      <name>195</name>
+      <Point>
+      <coordinates>10.89103843,48.14458190,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 196]]></description>
+      <name>196</name>
+      <Point>
+      <coordinates>10.89052001,48.14457732,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 197]]></description>
+      <name>197</name>
+      <Point>
+      <coordinates>10.88994457,48.14457038,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 198]]></description>
+      <name>198</name>
+      <Point>
+      <coordinates>10.88936762,48.14462428,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 199]]></description>
+      <name>199</name>
+      <Point>
+      <coordinates>10.88887777,48.14461217,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 200]]></description>
+      <name>200</name>
+      <Point>
+      <coordinates>10.88833763,48.14467503,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 201]]></description>
+      <name>201</name>
+      <Point>
+      <coordinates>10.88781280,48.14459257,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 202]]></description>
+      <name>202</name>
+      <Point>
+      <coordinates>10.88800625,48.14502877,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 203]]></description>
+      <name>203</name>
+      <Point>
+      <coordinates>10.88846999,48.14501495,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 204]]></description>
+      <name>204</name>
+      <Point>
+      <coordinates>10.88912296,48.14495379,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 205]]></description>
+      <name>205</name>
+      <Point>
+      <coordinates>10.88961294,48.14489562,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 206]]></description>
+      <name>206</name>
+      <Point>
+      <coordinates>10.89021387,48.14490163,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 207]]></description>
+      <name>207</name>
+      <Point>
+      <coordinates>10.89081076,48.14489454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 208]]></description>
+      <name>208</name>
+      <Point>
+      <coordinates>10.89132311,48.14484753,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 209]]></description>
+      <name>209</name>
+      <Point>
+      <coordinates>10.89182938,48.14484476,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 210]]></description>
+      <name>210</name>
+      <Point>
+      <coordinates>10.89240582,48.14485535,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 211]]></description>
+      <name>211</name>
+      <Point>
+      <coordinates>10.89293907,48.14484719,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 212]]></description>
+      <name>212</name>
+      <Point>
+      <coordinates>10.89353735,48.14487475,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 213]]></description>
+      <name>213</name>
+      <Point>
+      <coordinates>10.89411276,48.14495494,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 214]]></description>
+      <name>214</name>
+      <Point>
+      <coordinates>10.89374955,48.14517116,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 215]]></description>
+      <name>215</name>
+      <Point>
+      <coordinates>10.89316448,48.14515371,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 216]]></description>
+      <name>216</name>
+      <Point>
+      <coordinates>10.89274632,48.14516638,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 217]]></description>
+      <name>217</name>
+      <Point>
+      <coordinates>10.89191470,48.14508896,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 218]]></description>
+      <name>218</name>
+      <Point>
+      <coordinates>10.89158737,48.14516471,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 219]]></description>
+      <name>219</name>
+      <Point>
+      <coordinates>10.89103820,48.14518175,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 221]]></description>
+      <name>221</name>
+      <Point>
+      <coordinates>10.88998831,48.14520398,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 222]]></description>
+      <name>222</name>
+      <Point>
+      <coordinates>10.88936157,48.14522985,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 223]]></description>
+      <name>223</name>
+      <Point>
+      <coordinates>10.88889947,48.14528236,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 224]]></description>
+      <name>224</name>
+      <Point>
+      <coordinates>10.88827663,48.14529054,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 225]]></description>
+      <name>225</name>
+      <Point>
+      <coordinates>10.88861036,48.14560817,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 226]]></description>
+      <name>226</name>
+      <Point>
+      <coordinates>10.88923720,48.14556832,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 227]]></description>
+      <name>227</name>
+      <Point>
+      <coordinates>10.88969370,48.14556281,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 228]]></description>
+      <name>228</name>
+      <Point>
+      <coordinates>10.89016277,48.14545148,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 220]]></description>
+      <name>220</name>
+      <Point>
+      <coordinates>10.89048179,48.14522276,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 229]]></description>
+      <name>229</name>
+      <Point>
+      <coordinates>10.89076000,48.14550764,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 230]]></description>
+      <name>230</name>
+      <Point>
+      <coordinates>10.89126102,48.14545970,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 231]]></description>
+      <name>231</name>
+      <Point>
+      <coordinates>10.89183770,48.14545888,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 232]]></description>
+      <name>232</name>
+      <Point>
+      <coordinates>10.89242630,48.14549479,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 233]]></description>
+      <name>233</name>
+      <Point>
+      <coordinates>10.89292318,48.14545323,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 234]]></description>
+      <name>234</name>
+      <Point>
+      <coordinates>10.89336761,48.14547106,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 235]]></description>
+      <name>235</name>
+      <Point>
+      <coordinates>10.89396919,48.14548502,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 236]]></description>
+      <name>236</name>
+      <Point>
+      <coordinates>10.89352151,48.14568664,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 237]]></description>
+      <name>237</name>
+      <Point>
+      <coordinates>10.89310271,48.14582837,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 238]]></description>
+      <name>238</name>
+      <Point>
+      <coordinates>10.89262991,48.14581780,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 239]]></description>
+      <name>239</name>
+      <Point>
+      <coordinates>10.89216587,48.14580179,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 240]]></description>
+      <name>240</name>
+      <Point>
+      <coordinates>10.89154728,48.14574519,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 241]]></description>
+      <name>241</name>
+      <Point>
+      <coordinates>10.89108077,48.14580058,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 242]]></description>
+      <name>242</name>
+      <Point>
+      <coordinates>10.89053630,48.14581424,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 243]]></description>
+      <name>243</name>
+      <Point>
+      <coordinates>10.89009415,48.14583699,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 244]]></description>
+      <name>244</name>
+      <Point>
+      <coordinates>10.88945663,48.14587981,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 245]]></description>
+      <name>245</name>
+      <Point>
+      <coordinates>10.88884085,48.14587731,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 246]]></description>
+      <name>246</name>
+      <Point>
+      <coordinates>10.88870051,48.14626879,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 247]]></description>
+      <name>247</name>
+      <Point>
+      <coordinates>10.88918367,48.14624481,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 248]]></description>
+      <name>248</name>
+      <Point>
+      <coordinates>10.88979200,48.14608830,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 249]]></description>
+      <name>249</name>
+      <Point>
+      <coordinates>10.89016603,48.14619476,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 250]]></description>
+      <name>250</name>
+      <Point>
+      <coordinates>10.89085699,48.14613872,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 251]]></description>
+      <name>251</name>
+      <Point>
+      <coordinates>10.89127744,48.14606417,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 252]]></description>
+      <name>252</name>
+      <Point>
+      <coordinates>10.89176554,48.14607033,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 253]]></description>
+      <name>253</name>
+      <Point>
+      <coordinates>10.89241827,48.14615095,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 254]]></description>
+      <name>254</name>
+      <Point>
+      <coordinates>10.89287976,48.14613774,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 255]]></description>
+      <name>255</name>
+      <Point>
+      <coordinates>10.89340250,48.14615402,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 256]]></description>
+      <name>256</name>
+      <Point>
+      <coordinates>10.89374633,48.14644182,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 257]]></description>
+      <name>257</name>
+      <Point>
+      <coordinates>10.89304506,48.14645033,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 258]]></description>
+      <name>258</name>
+      <Point>
+      <coordinates>10.89257987,48.14642186,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 259]]></description>
+      <name>259</name>
+      <Point>
+      <coordinates>10.89202080,48.14641877,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 260]]></description>
+      <name>260</name>
+      <Point>
+      <coordinates>10.89149218,48.14636411,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 261]]></description>
+      <name>261</name>
+      <Point>
+      <coordinates>10.89114671,48.14639099,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 262]]></description>
+      <name>262</name>
+      <Point>
+      <coordinates>10.89060053,48.14641552,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 263]]></description>
+      <name>263</name>
+      <Point>
+      <coordinates>10.89005988,48.14654720,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 264]]></description>
+      <name>264</name>
+      <Point>
+      <coordinates>10.88958781,48.14644045,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 265]]></description>
+      <name>265</name>
+      <Point>
+      <coordinates>10.88916258,48.14652913,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 266]]></description>
+      <name>266</name>
+      <Point>
+      <coordinates>10.88914617,48.14683435,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 267]]></description>
+      <name>267</name>
+      <Point>
+      <coordinates>10.88964529,48.14677979,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 268]]></description>
+      <name>268</name>
+      <Point>
+      <coordinates>10.89045344,48.14675985,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 269]]></description>
+      <name>269</name>
+      <Point>
+      <coordinates>10.89084975,48.14667443,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 270]]></description>
+      <name>270</name>
+      <Point>
+      <coordinates>10.89261155,48.14664046,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 271]]></description>
+      <name>271</name>
+      <Point>
+      <coordinates>10.89280759,48.14671883,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 272]]></description>
+      <name>272</name>
+      <Point>
+      <coordinates>10.89342629,48.14673793,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 274]]></description>
+      <name>274</name>
+      <Point>
+      <coordinates>10.88994981,48.14704939,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 276]]></description>
+      <name>276</name>
+      <Point>
+      <coordinates>10.88967232,48.14731257,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 275]]></description>
+      <name>275</name>
+      <Point>
+      <coordinates>10.88944329,48.14703024,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 277]]></description>
+      <name>277</name>
+      <Point>
+      <coordinates>10.88954028,48.14765409,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 273]]></description>
+      <name>273</name>
+      <Point>
+      <coordinates>10.89345291,48.14701265,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Unknown Point Feature<BR><BR><B>ID</B> = 35]]></description>
+      <name>35</name>
+      <Point>
+      <coordinates>10.88571612,48.14099944,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>

@@ -1,0 +1,10 @@
+Package: utilsMPIO
+Version: 0.0.25
+Date: 2013-04-08 11:35:33
+Type: Package
+Depends: R (>= 2.8.0)
+Title: MPIO utility functions 
+Author: Mihai Valcu, Anne Rutten
+Maintainer: Mihai Valcu <valcu@orn.mpg.de>, Anne Rutten <arutten@orn.mpg.de>
+Description: Utility functions used in Max Planck Institute for Ornithology, Behavioural Ecology and Evolutionary Genetics 
+License: MPIO
