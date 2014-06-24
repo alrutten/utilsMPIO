@@ -2,14 +2,14 @@
 
 
 Tedit <- function(dframe, name = "temp", fileType = "xls", tf = tempfile(fileext = paste(".", fileType, sep = ""))) {
-
+     maxwidth = 255*256 #unit  = 1/256 character, max column width is 255 char
     o <<- tf
 	writeWorksheetToFile(tf, data=dframe, sheet = name)
 	# set widths
 	if (nrow(dframe)>0) {
 	  widths=256+as.numeric(apply(dframe,2,function(x) max(nchar(x))+3))*256 
 	  widths=ifelse(nchar(colnames(dframe))>widths/256,256+(nchar(colnames(dframe))+3)*256,widths)
-      
+          widths[widths>maxwidth] = maxwidth
 	  foo=loadWorkbook(tf, create = FALSE)
 	
 	  setColumnWidth(foo,sheet=name,column=c(1:length(dframe)),width=widths) #setColumnWidth(xltmp,...) does not work
