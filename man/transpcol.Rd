@@ -20,10 +20,10 @@ transparency value, ranges from 0 (fully transparent) to 255 (fully opaque)
 }
 }
 \value{
- A character vector with elements of 7 or 9 characters, ‘"#"’
+ A character vector with elements of 7 or 9 characters,
      followed by the red, blue, green and optionally alpha values in
-     hexadecimal (after rescaling to ‘0 ... 255’).  The optional alpha
-     values range from ‘0’ (fully transparent) to ‘255’ (opaque).
+     hexadecimal (after rescaling to ?0 ... 255?).  The optional alpha
+     values range from ?0? (fully transparent) to ?255? (opaque).
 
 }
 \author{

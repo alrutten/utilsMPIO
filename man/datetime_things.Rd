@@ -18,7 +18,7 @@ wday(datetime)
 \details{
 backtoPOSIXct re-instates POSIXct class to a timevar that was originally POSIXct (and is now a numerical value representing the number of seconds since 01-jan-1970 due to some random action in r that made it lose its attributes)	
 
-wday returns the day of the week, starting on monday, to be compatible with %W (%w starts on sunday, but %W starts on monday)
+wday returns the day of the week, starting on monday, to be compatible with the \%W format in strptime() (\%w starts on sunday, but \%W starts on monday)
 
 }	
 \value{

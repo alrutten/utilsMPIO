@@ -19,41 +19,7 @@ Tedit <- function(dframe, name = "temp", fileType = "xls", tf = tempfile(fileext
     print(o)
     print(tf)
     shell.exec(tf)
-    
-#	gui = function() {
- #       top = tktoplevel()
- #      frm = tkframe(top, borderwidth = 1)
- #       tcl("wm", "attributes", top, topmost = 1)
- #       tkwm.resizable(top, 0, 0)
- #       tktitle(top) = paste("dbiGUI", packageDescription("dbiGUI")$Version)
- #       
-#		onSave = function() {
-##            .res <<- o
-#            tkdestroy(top)}
-			
-       #onCancel = function() {
-       #     .res <<- o
-        #    tkdestroy(top)}
-			
-     #   SAVE = tk2button(frm, text = "  SAVE  ", command = onSave,  tip = "Save changes.")
-      #  CANCEL = tk2button(frm, text = " CANCEL ", command = onCancel, tip = "Changes will not be saved!")
-        
-#		img = tklabel(frm, image = tkimage.create("photo", file = system.file("ico", "doc_folder.gif", package = "dbiGUI")))
-        
-#		tkgrid(SAVE, column = 0, row = 0, sticky = "e")
- #       tkgrid(img, column = 1, row = 0, sticky = "ew")
-        
-	#	tkgrid(CANCEL, column = 2, row = 0, sticky = "w")
-    #    tkpack(frm, fill = "both", expand = 1)
-    #    tkfocus(top)
-    #    tkwait.window(top)
-    #    return(.res)
-    #}
-	
-   # fn = gui()
-   # Sys.sleep(1)
-   # readWorksheetFromFile(fn, sheet = name)
-}
+ 
 
 XLSForm=function(dfr, tfile=paste(tempdir(),paste(usernam(),format(Sys.time(),"%d%b%y_%H%M%S"),".XLS",sep=""),sep='/')) { 
    
