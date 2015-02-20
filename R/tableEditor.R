@@ -3,7 +3,7 @@
 
 Tedit <- function(dframe, name = "temp", fileType = "xls", tf = tempfile(fileext = paste(".", fileType, sep = ""))) {
      maxwidth = 255*256 #unit  = 1/256 character, max column width is 255 char
-    o <<- tf
+  
 	writeWorksheetToFile(tf, data=dframe, sheet = name)
 	# set widths
 	if (nrow(dframe)>0) {
@@ -16,9 +16,8 @@ Tedit <- function(dframe, name = "temp", fileType = "xls", tf = tempfile(fileext
 	  saveWorkbook(foo)
 	 } 
     
-    print(o)
-    print(tf)
     shell.exec(tf)
+}
  
 
 XLSForm=function(dfr, tfile=paste(tempdir(),paste(usernam(),format(Sys.time(),"%d%b%y_%H%M%S"),".XLS",sep=""),sep='/')) { 
