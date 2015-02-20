@@ -126,8 +126,8 @@ Message = function(txt, toGUI = TRUE, envir) {
 	assign("guiMsgs", c(get("guiMsgs",envir=envir), txt),  env = envir)
 
 }
-transpcol = function (col = "red", newalpha = 100, mcv = 255) # sets transparency for colour col
-{
+transpcol = function (col = "red", newalpha = 100, mcv = 255) { # sets transparency for colour col
+
     mycol = col2rgb(col)
     rgb(mycol[1, ], mycol[2, ], mycol[3, ], alpha = newalpha, 
         maxColorValue = mcv)
